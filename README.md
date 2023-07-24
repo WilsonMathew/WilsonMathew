@@ -3,7 +3,7 @@
 [![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg)](https://WilsonMathew.io)
 <h1 align="center">Hello, I'm Wilson Laynez</h1>
 <h3 align="center">Software and science engineer student</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - ⚡ Fun fact **I like martial arts**
 
